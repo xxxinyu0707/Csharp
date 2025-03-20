@@ -1,0 +1,7 @@
+D:\学术垃圾\大二下\软件构造\assignment4\homework2\homework2\bin\Debug\homework2.exe.config
+D:\学术垃圾\大二下\软件构造\assignment4\homework2\homework2\bin\Debug\homework2.exe
+D:\学术垃圾\大二下\软件构造\assignment4\homework2\homework2\bin\Debug\homework2.pdb
+D:\学术垃圾\大二下\软件构造\assignment4\homework2\homework2\obj\Debug\homework2.csproj.AssemblyReference.cache
+D:\学术垃圾\大二下\软件构造\assignment4\homework2\homework2\obj\Debug\homework2.csproj.CoreCompileInputs.cache
+D:\学术垃圾\大二下\软件构造\assignment4\homework2\homework2\obj\Debug\homework2.exe
+D:\学术垃圾\大二下\软件构造\assignment4\homework2\homework2\obj\Debug\homework2.pdb
